@@ -1,7 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Backend Engineer.
 - 🌱 I’m currently learning AWS php Go.
-- 📫 How to reach me: <a href="https://linktr.ee/iwatanabe?utm_source=linktree_admin_share" target="_blank" rel="noopener noreferrer"> Linktree iwatanabe </a>
 
 ![](https://komarev.com/ghpvc/?username=iwatanabe-7)
 ![trophy](https://github-profile-trophy.vercel.app/?username=iwatanabe-7&theme=onedark)
