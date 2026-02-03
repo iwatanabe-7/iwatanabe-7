@@ -1,11 +1,8 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Backend Engineer.
-- 🌱 I’m currently learning AWS php.
+- 🌱 I’m currently learning AWS.
 
 ![](https://komarev.com/ghpvc/?username=iwatanabe-7)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iwatanabe-7)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ## Skill
 <img src="https://github.com/user-attachments/assets/0a5da90b-8cb0-4eb8-8f13-98ab0dee3c8f" width="15%" />
