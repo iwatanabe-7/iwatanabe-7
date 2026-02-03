@@ -4,8 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=iwatanabe-7)
 
-
-![trophy](https://github-profile-trophy.vercel.app/?username=iwatanabe-7&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iwatanabe-7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Skill
